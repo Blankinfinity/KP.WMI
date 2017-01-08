@@ -1,0 +1,2 @@
+# KP.WMI
+WMI Library
